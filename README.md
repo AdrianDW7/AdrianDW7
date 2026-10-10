@@ -1,16 +1,25 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Adrián
 
-<!--
-**AdrianDW7/AdrianDW7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Desarrollo de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+Me interesa el desarrollo web y quiero especializarme en **backend con Java**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Qué estoy haciendo ahora
+- 📚 Cursando el grado superior de DAW
+- 🌱 Aprendiendo Git, GitHub y despliegue de aplicaciones
+- ☕ Avanzando en Java y backend
+
+## 🛠️ Tecnologías
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## 📫 Contacto
+- LinkedIn: [tu perfil](https://linkedin.com/in/tu-usuario)
+- Email: tu-correo@ejemplo.com
+
+## 📊 Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true)
