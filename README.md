@@ -18,8 +18,8 @@ Me interesa el desarrollo web y quiero especializarme en **backend con Java**.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 📫 Contacto
-- LinkedIn: [tu perfil](https://linkedin.com/in/tu-usuario)
-- Email: tu-correo@ejemplo.com
+- LinkedIn: [tu perfil](www.linkedin.com/in/adrián-domínguez-wencesla-b9b38639a)
+- Email: adriandw72005@gmail.com
 
 ## 📊 Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdrianDW7&show_icons=true)
