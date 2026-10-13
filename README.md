@@ -1,8 +1,11 @@
-# ¡Hola! 👋 Soy Adrián
+# <img src="./imagenes/fotoPerfil.png" width=10% align=right /> Hello! 👋 My name is Adrián
 
-### Estudiante de Desarrollo de Aplicaciones Web (DAW)
+**Web Application Development (DAW) Student** :computer:
 
-Me interesa el desarrollo web y quiero especializarme en **backend con Java**.
+<img src="./imagenes/bannerForest.jpg" borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0,3)'>
+</p>
+
+I am interested in web development, as well as backend development with Java.
 
 ## 🔭 Qué estoy haciendo ahora
 - 📚 Cursando el grado superior de DAW
