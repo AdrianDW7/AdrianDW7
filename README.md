@@ -27,7 +27,7 @@ I'm interested in web development and, above all, backend development with Java.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 📫 Contact
-- LinkedIn: [My profile](www.linkedin.com/in/adrián-domínguez-wencesla-b9b38639a)
+- LinkedIn: [My profile](https://www.linkedin.com/in/adrián-domínguez-wencesla-b9b38639a)
 - Email: adriandw72005@gmail.com
 
 ## 🌐 My contributions
