@@ -1,4 +1,4 @@
-# <img src="./imagenes/fotoPerfil.png" width="10%" align="right" /> Hello! 👋 I'm Adrián
+# Hello! 👋 I'm Adrián
 
 **Web Application Development (DAW) Student** 💻
 
